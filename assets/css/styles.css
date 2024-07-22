@@ -516,7 +516,22 @@ img{
 }
 
 .skills__sql{
+    width: 90%;
+}
+.skills__pgsql{
+    width: 90%;
+}
+.skills__nosql{
+    width: 50%;
+}
+.skills__snowflake{
     width: 85%;
+}
+.skills__spark{
+    width: 70%;
+}
+.skills__deltatables{
+    width: 70%;
 }
 
 .skills__js{
@@ -555,30 +570,6 @@ img{
     width: 80%;
 }
 
-.skills__np{
-    width: 80%;
-}
-
-.skills__pd{
-    width: 90%;
-}
-
-.skills__opencv{
-    width: 65%;
-}
-
-.skills__pillow{
-    width: 65%;
-}
-
-.skills__mtl{
-    width: 70%;
-}
-
-.skills__sklearn{
-    width: 85%;
-}
-
 .skills__nltk{
     width: 60%;
 }
@@ -591,24 +582,8 @@ img{
     width: 80%;
 }
 
-.skills__pytorch{
-    width: 85%;
-}
-
-.skills__seaborn{
-    width: 70%;
-}
-
 .skills__looker{
     width: 75%;
-}
-
-.skills__flask{
-    width: 40%;
-}
-
-.skills__mllib{
-    width: 70%;
 }
 
 .skills__regression{
@@ -644,7 +619,7 @@ img{
 }
 
 .skills__time{
-    width: 65%;
+    width: 90%;
 }
 
 .skills__ensemble{
@@ -675,30 +650,94 @@ img{
     width: 40%;
 }
 
-
-.skills__lambda{
+/*Frameworks*/
+.skills__np{
+    width: 90%;
+}
+.skills__pd{
+    width: 95%;
+}
+.skills__sklearn{
+    width: 95%;
+}
+.skills__mtl{
+    width: 90%;
+}
+.skills__pystan{
     width: 70%;
 }
-
-.skills__bq{
-    width: 40%;
+.skills__pymc{
+    width: 70%;
 }
-
-.skills__redshift{
+.skills__pyspark{
+    width: 80%;
+}
+.skills__pytorch{
+    width: 60%;
+}
+.skills__dash{
+    width: 65%;
+}
+.skills__flask{
+    width: 65%;
+}
+.skills__opencv{
+    width: 70%;
+}
+.skills__selenium{
+    width: 70%;
+}
+.skills__seaborn{
     width: 75%;
 }
 
+/*AWS*/
+.skills__iam{
+    width: 70%;
+}
+.skills__cw{
+    width: 80%;
+}
+.skills__sagemaker{
+    width: 70%;
+}
+.skills__rekog{
+    width: 65%;
+}
+.skills__compre{
+    width: 65%;
+}
+.skills__person{
+    width: 65%;
+}
+.skills__lex{
+    width: 50%;
+}
+.skills__s3{
+    width: 80%;
+}
+.skills__ec2{
+    width: 50%;
+}
+.skills__lambda{
+    width: 70%;
+}
+.skills__glue{
+    width: 80%;
+}
+.skills__athena{
+    width: 80%;
+}
 .skills__rds{
     width: 70%;
 }
-
-.skills__tableau{
-    width: 50%;
+.skills__quicks{
+    width: 75%;
+}
+.skills__kinesis{
+    width: 85%;
 }
 
-.skills__pbi{
-    width: 50%;
-}
 
 .skills__close .skills__list{
     height: 0;
